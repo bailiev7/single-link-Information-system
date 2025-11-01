@@ -1,6 +1,6 @@
 # Single-Link-Information-System
 
-# Development of a single-link information system.Разработка однозвенной информационной системы.(For second-year undergraduate students.) 
+## Development of a single-link information system.Разработка однозвенной информационной системы.(For second-year undergraduate students.) 
 
 ![image](https://github.com/user-attachments/assets/1eaf3d52-7c6d-4d97-9af0-3e0544493378)
 
